@@ -26,3 +26,4 @@ npm run start
 
 Please feel free to suggest improvements on [issues](https://github.com/mattcam/tfjs_xor_example/issues)
 
+Thanks Matt. Node file system saving seems to work using your repository as a base.
