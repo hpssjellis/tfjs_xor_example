@@ -11,6 +11,7 @@ Node
 ## Usage
 
 ```
+nvm install 10        (only on cloud9 http://c9.io to activate node verion 10)
 npm install
 npm run start
 ```
